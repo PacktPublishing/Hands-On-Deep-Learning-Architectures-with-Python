@@ -1,6 +1,6 @@
 # Hands-On Deep Learning Architectures with Python
 
-<a href="https://www2.packtpub.com/big-data-and-business-intelligence/hands-deep-learning-architectures-python?utm_source=github&utm_medium=repository&utm_campaign=9781788998086"><img src="Cover Image URL of the Book" alt="Hands-On Deep Learning Architectures with Python" height="256px" align="right"></a>
+<a href="https://www2.packtpub.com/big-data-and-business-intelligence/hands-deep-learning-architectures-python?utm_source=github&utm_medium=repository&utm_campaign=9781788998086"><img src="https://www2.packtpub.com/sites/default/files/931210283Nner.png?utm_source=github&utm_medium=repository&utm_campaign=9781788998086" alt="Hands-On Deep Learning Architectures with Python" height="256px" align="right"></a>
 
 This is the code repository for [Hands-On Deep Learning Architectures with Python](https://www2.packtpub.com/big-data-and-business-intelligence/hands-deep-learning-architectures-python?utm_source=github&utm_medium=repository&utm_campaign=9781788998086), published by Packt.
 
