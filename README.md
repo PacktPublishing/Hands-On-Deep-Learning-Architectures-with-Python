@@ -1,3 +1,15 @@
+
+### Get this product for $5
+
+<i>Packt is having its biggest sale of the year. Get this eBook or any other book, video, or course that you like just for $5 each</i>
+
+
+<b><p align='center'>[Buy now](https://packt.link/9781788998086)</p></b>
+
+
+<b><p align='center'>[Buy similar titles for just $5](https://subscription.packtpub.com/search)</p></b>
+
+
 # Hands-On Deep Learning Architectures with Python
 
 <a href="https://www2.packtpub.com/big-data-and-business-intelligence/hands-deep-learning-architectures-python?utm_source=github&utm_medium=repository&utm_campaign=9781788998086"><img src="https://www2.packtpub.com/sites/default/files/931210283Nner.png?utm_source=github&utm_medium=repository&utm_campaign=9781788998086" alt="Hands-On Deep Learning Architectures with Python" height="256px" align="right"></a>
